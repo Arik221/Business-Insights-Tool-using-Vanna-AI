@@ -131,5 +131,4 @@ AutomatedBusinessInsights/
 
 ## **License**
 
-MIT License – Free to use for personal and educational purposes.
-
+This project is licensed under the MIT License - see the LICENSE file for details.
